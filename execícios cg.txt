@@ -1,0 +1,18 @@
+LISTA A
+1 - Desenhar uma linha horizontal no centro da janela de desenho.
+2 - Desenhar uma linha horizontal vermelha no centro da janela de desenho e uma linha vertical azul, também ao centro.
+3 - Desenhar um quadrilátero verde, sem linha na borda, ocupando 50% da janela de desenho.
+4 - Desenhar um alvo no centro da janela de desenho.
+5 - Desenhar um alvo que acompanhe a posição do ponteiro.
+
+LISTA B
+1 - Crie um programa que faça uma linha percorrer a tela verticalmente.
+2 - Crie um programa que faça uma linha percorrer a tela horizontalmente.
+3 - Crie um programa que faça uma linha percorrer a tela na diagonal principal ou secundária, alternando quando o usuário clicar o mouse.
+4 - Crie um programa com um degradê lateralmente em tons de cinza.
+5 - Crie uma lista de barras coloridas estilo sinal de barras de televisão/vídeo.
+6 - Crie um programa que pinte o fundo da tela com variação em altura (vermelho) e largura (verde) da posição do mouse. Mantenha o tom de azul fixo.
+7 - Crie um programa que pinte o fundo da tela com variação em altura (vermelho) e largura (azul) da posição do mouse. Mantenha o tom de verde fixo.
+8 - Crie um programa que pinte o fundo da tela com variação em altura (verde) e largura (azul) da posição do mouse. Mantenha o tom de vermelho fixo.
+9 - Repita os exercícios 7 a 9 mas no sistema HSB. Fixe os valores de uma das componentes de cor e altere a cor do sistema de acordo com a posição do mouse. Preferencialmente indique os valores da componente através de texto em uma posição fixa na tela.
+10 - Crie um programa que faça um círculo que mude de cor e rebata nas paredes da tela (como o papel de parede de bolhas).
