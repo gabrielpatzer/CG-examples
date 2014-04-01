@@ -1,0 +1,6 @@
+1 - Desenhar um quadrado na tela, fixo, que muda de cor com a posição do cursor.
+2 - Movimentar um círculo, horizontalmente apenas, de acordo com a posição do cursor.
+3 - Movimentar um objeto do tipo Shape, seguindo a posição do cursor.
+4 - Criar um efeito de inversão de movimento (sentido) em um objeto se movendo lateralmente. Realizar a inversão ao clicar com o mouse.
+5 - Criar o efeito de uma bola rebatendo nas paredes da tela.
+6 - Criar um efeito de aceleração e frenagem em um objeto se movendo lateralmente. O objeto acelera com a tela 'a' e freia com a tecla 'f'.
