@@ -1,0 +1,9 @@
+1 - Criar um programa que mostre separadamente as componentes RGB de uma imagem.
+Permitir selecionar o arquivo da imagem.
+2 - Criar um programa que faz a segmentação por limiarização de uma imagem em tons de cinza.
+Permitir selecionar a limiar com a roda do mouse.
+3 - Mostrar uma imagem em tons de cinza e seu histograma.
+Calcular o limiar pela técnica de otsu e fazer a limiarização ao clicar no histograma.
+4 - Realizar a limiarização de uma imagem coloriza em cada uma de suas componentes.
+Recombinar as imagens por: União, Intersecção, Cada componente original.
+5 - Utilizar a limiarização para remover o fundo de uma imagem, mantendo o restante como no original.
